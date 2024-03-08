@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.demo,.Ai,#chat_1{
+    border-left: 3px solid blue;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.Ais,#chat_1,#chat_2,#chat_3,#chat_4,#chat_5,#chat_6,#chat_7,#chat_8,#chat_9,#chat_10,#chat_11{
+    border-left: 3px solid red;
+    line-height: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.Ai,.Ais{
+    margin-bottom: 0;
+}
+h1{
+    text-align: center;
+}
